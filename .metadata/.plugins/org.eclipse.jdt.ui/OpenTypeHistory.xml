@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=studyCodeThree/study&lt;commandMode{Commend.java[Commend" modifiers="513" timestamp="1528079003967"/>
+<typeInfo handle="=studyCodeThree/study&lt;observerCode{Subject.java[Subject" modifiers="513" timestamp="1528167764614"/>
+<typeInfo handle="=studyCodeThree/study&lt;observerCode{Observer.java[Observer" modifiers="513" timestamp="1528166832754"/>
+<typeInfo handle="=studyCodeThree/study&lt;observerCode.practice{HydrologicStation.java[HydrologicStation" modifiers="513" timestamp="1528250994145"/>
+<typeInfo handle="=studyCodeThree/study&lt;observerCode.practice{HeadQuarters.java[HeadQuarters" modifiers="513" timestamp="1528250814330"/>
+<typeInfo handle="=studyCodeThree/study&lt;decoratorCode{Bird.java[Bird" modifiers="1025" timestamp="1528426408133"/>
+<typeInfo handle="=studyCodeThree/study&lt;decoratorCode{DecoratirBird.java[DecoratirBird" modifiers="1025" timestamp="1528426889980"/>
+<typeInfo handle="=studyCodeThree/study&lt;decoratorCode{ReadWord.java[ReadWord" modifiers="1025" timestamp="1528447264742"/>
+<typeInfo handle="=studyCodeThree/study&lt;decoratorCode{DecoratorReadWord.java[DecoratorReadWord" modifiers="1025" timestamp="1528447966868"/>
+<typeInfo handle="=studyCodeThree/study&lt;strategyCode{Strategy.java[Strategy" modifiers="513" timestamp="1530003177049"/>
+<typeInfo handle="=studyCodeThree/study&lt;handlerCode{Handler.java[Handler" modifiers="513" timestamp="1531297562188"/>
+<typeInfo handle="=studyCodeThree/study&lt;handlerCode.practice{FactorialHandler.java[FactorialHandler" modifiers="513" timestamp="1531302791942"/>
+<typeInfo handle="=studyCodeThree/study&lt;factoryCode{PenCore.java[PenCore" modifiers="1025" timestamp="1531374649094"/>
+<typeInfo handle="=studyCodeThree/study&lt;factoryCode{Pen.java[Pen" modifiers="1025" timestamp="1531375732621"/>
+<typeInfo handle="=studyCodeThree/study&lt;abstractFactoryCode{GunProduct.java[GunProduct" modifiers="1025" timestamp="1531379966332"/>
+<typeInfo handle="=studyCodeThree/study&lt;abstractFactoryCode{Bullet.java[Bullet" modifiers="1025" timestamp="1531380015681"/>
+<typeInfo handle="=studyCodeThree/study&lt;abstractFactoryCode{ArmsAbstractFactory.java[ArmsAbstractFactory" modifiers="1025" timestamp="1531380465470"/>
+<typeInfo handle="=studyCodeThree/G:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;javax.xml.stream.events(StartDocument.class[StartDocument" modifiers="1537" timestamp="1523602312157"/>
+<typeInfo handle="=studyCodeThree/study&lt;statusCode{State.java[State" modifiers="513" timestamp="1531469803543"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Adapter{Output5V.java[Output5V" modifiers="513" timestamp="1532506218226"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Adapter{Output220V.java[Output220V" modifiers="513" timestamp="1532506163586"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.BrigeJoint{Color.java[Color" modifiers="513" timestamp="1532944757704"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.BrigeJoint{Shape.java[Shape" modifiers="1025" timestamp="1532944850780"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Component.TransparentMode{CompanyComponent.java[CompanyComponent" modifiers="1025" timestamp="1533027982272"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Component.SafeMode{CompanyComponent.java[CompanyComponent" modifiers="1025" timestamp="1533094207618"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Decorator{BreadAbstract.java[BreadAbstract" modifiers="1025" timestamp="1533107294072"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.FlyWeight{PieceAbstract.java[PieceAbstract" modifiers="1025" timestamp="1533181402243"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Proxy.Staitc{IBuyCar.java[IBuyCar" modifiers="513" timestamp="1533192680267"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Proxy.Dynamic{IBuycar.java[IBuycar" modifiers="513" timestamp="1533195313319"/>
+<typeInfo handle="=studyCodeFour/G:\/Program Files\/Java\/jdk1.7.0_67\/jre\/lib\/rt.jar&lt;org.omg.CORBA.portable(InvokeHandler.class[InvokeHandler" modifiers="1537" timestamp="1523602300048"/>
+<typeInfo handle="=studyCodeFour/src&lt;ConstructCode.Proxy.Dynamic.Practice{Subject.java[Subject" modifiers="513" timestamp="1533199645547"/>
+<typeInfo handle="=studyCodeFour/G:\/Program Files\/Java\/jdk1.7.0_67\/jre\/lib\/rt.jar&lt;com.sun.org.apache.xpath.internal.axes(SubContextList.class[SubContextList" modifiers="1537" timestamp="1523602300048"/>
+<typeInfo handle="=studyCodeFour/G:\/Program Files\/Java\/jdk1.7.0_67\/jre\/lib\/rt.jar&lt;java.lang.reflect(InvocationHandler.class[InvocationHandler" modifiers="1537" timestamp="1523602300048"/>
+<typeInfo handle="=studyCodeFour/G:\/jdkcode\/jdk7_debug\/rt_debug.jar&lt;javax.script(Invocable.class[Invocable" modifiers="1537" timestamp="1524636815610"/>
+<typeInfo handle="=studyCodeFour/src&lt;CreateMode.AbstractFactory{HumanAbstract.java[HumanAbstract" modifiers="1025" timestamp="1533274703255"/>
+<typeInfo handle="=studyCodeFour/src&lt;CreateMode.AbstractFactory{CreateHumanFactory.java[CreateHumanFactory" modifiers="513" timestamp="1533279786562"/>
+<typeInfo handle="=studyCodeFour/src&lt;CreateMode.Builder{PersonBuilder.java[PersonBuilder" modifiers="513" timestamp="1533721817357"/>
+<typeInfo handle="=studyCodeFour/src&lt;CreateMode.Prototype{ProtoType.java[ProtoType" modifiers="513" timestamp="1535013275618"/>
+<typeInfo handle="=studyCodeFour/G:\/Program Files\/Java\/jdk1.7.0_67\/jre\/lib\/rt.jar&lt;com.sun.corba.se.pept.protocol(ProtocolHandler.class[ProtocolHandler" modifiers="1537" timestamp="1523602300048"/>
+<typeInfo handle="=studyCodeFour/src&lt;Behavior.chain{PersonAction.java[PersonAction" modifiers="513" timestamp="1535446046255"/>
+<typeInfo handle="=studyCodeFour/src&lt;Behavior.iterator{Iterator.java[Iterator" modifiers="513" timestamp="1535702398061"/>
+<typeInfo handle="=studyCodeFour/G:\/Program Files\/Java\/jdk1.7.0_67\/jre\/lib\/rt.jar&lt;java.lang(Iterable.class[Iterable" modifiers="1537" timestamp="1523602300048"/>
+<typeInfo handle="=studyCodeFour/src&lt;Behavior.iterator{List.java[List" modifiers="513" timestamp="1535703220824"/>
+</typeInfoHistroy>
